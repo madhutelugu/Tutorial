@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T09:24:54.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jnHTb2x7JQl5Bmevs4VO" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T09:25:28.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hYJcWxTd_D-pWFhVv3pZ" version="21.5.0" type="github">
   <diagram name="Page-1" id="SV9kGnspiG5IxeSzF4UC">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
             <mxPoint x="780" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IpySQoxf5-p5Oazan-Eo-25" value="Async&lt;br&gt;Communication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IpySQoxf5-p5Oazan-Eo-25" value="sync&lt;br&gt;Communication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660.69" y="395" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IpySQoxf5-p5Oazan-Eo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaZoj-XQZAgaO3lWPKiD-1" target="RaZoj-XQZAgaO3lWPKiD-3">
