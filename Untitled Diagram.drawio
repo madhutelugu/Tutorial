@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T09:22:52.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d_tNLfkmyIBGo2UWN7qU" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T09:23:54.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="se3JTb69WnXtGvyuwJ1b" version="21.5.0" type="github">
   <diagram name="Page-1" id="SV9kGnspiG5IxeSzF4UC">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="110" as="sourcePoint" />
             <mxPoint x="690" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="111" />
+              <mxPoint x="650" y="111" />
+              <mxPoint x="650" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RaZoj-XQZAgaO3lWPKiD-17" value="MongoDb&lt;br&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" parent="1" vertex="1">
@@ -50,6 +55,14 @@
         </mxCell>
         <mxCell id="IpySQoxf5-p5Oazan-Eo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IpySQoxf5-p5Oazan-Eo-7" target="IpySQoxf5-p5Oazan-Eo-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpySQoxf5-p5Oazan-Eo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IpySQoxf5-p5Oazan-Eo-7" target="IpySQoxf5-p5Oazan-Eo-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="280" />
+              <mxPoint x="650" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IpySQoxf5-p5Oazan-Eo-7" value="Inventory Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
